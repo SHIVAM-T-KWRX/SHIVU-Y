@@ -9,5 +9,5 @@ UPDATED VERSION😻🔥
 Javascript, HTML, CSS...
 
 
-![Logo](https://pin.it/77hfqv7Qc)
+![Logo](https://pin.it/77hfqv7Qc.png)
 
